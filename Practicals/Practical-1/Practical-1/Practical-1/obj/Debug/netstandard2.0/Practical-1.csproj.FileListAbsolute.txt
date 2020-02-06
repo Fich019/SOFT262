@@ -1,0 +1,13 @@
+C:\Users\zhawkins\Documents\GitHub\SOFT262\Practicals\Practical-1\Practical-1\Practical-1\bin\Debug\netstandard2.0\Practical-1.deps.json
+C:\Users\zhawkins\Documents\GitHub\SOFT262\Practicals\Practical-1\Practical-1\Practical-1\bin\Debug\netstandard2.0\Practical-1.dll
+C:\Users\zhawkins\Documents\GitHub\SOFT262\Practicals\Practical-1\Practical-1\Practical-1\bin\Debug\netstandard2.0\ref\Practical-1.dll
+C:\Users\zhawkins\Documents\GitHub\SOFT262\Practicals\Practical-1\Practical-1\Practical-1\bin\Debug\netstandard2.0\Practical-1.pdb
+C:\Users\zhawkins\Documents\GitHub\SOFT262\Practicals\Practical-1\Practical-1\Practical-1\obj\Debug\netstandard2.0\Practical-1.csprojAssemblyReference.cache
+C:\Users\zhawkins\Documents\GitHub\SOFT262\Practicals\Practical-1\Practical-1\Practical-1\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\zhawkins\Documents\GitHub\SOFT262\Practicals\Practical-1\Practical-1\Practical-1\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\zhawkins\Documents\GitHub\SOFT262\Practicals\Practical-1\Practical-1\Practical-1\obj\Debug\netstandard2.0\Practical-1.AssemblyInfoInputs.cache
+C:\Users\zhawkins\Documents\GitHub\SOFT262\Practicals\Practical-1\Practical-1\Practical-1\obj\Debug\netstandard2.0\Practical-1.AssemblyInfo.cs
+C:\Users\zhawkins\Documents\GitHub\SOFT262\Practicals\Practical-1\Practical-1\Practical-1\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\zhawkins\Documents\GitHub\SOFT262\Practicals\Practical-1\Practical-1\Practical-1\obj\Debug\netstandard2.0\Practical-1.dll
+C:\Users\zhawkins\Documents\GitHub\SOFT262\Practicals\Practical-1\Practical-1\Practical-1\obj\Debug\netstandard2.0\ref\Practical-1.dll
+C:\Users\zhawkins\Documents\GitHub\SOFT262\Practicals\Practical-1\Practical-1\Practical-1\obj\Debug\netstandard2.0\Practical-1.pdb
